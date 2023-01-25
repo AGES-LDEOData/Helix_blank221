@@ -1,0 +1,35 @@
+{
+    "Iso17.9938": {
+        "error": 0.0001240299066782423,
+        "error_type": null,
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 0.006167350725352154
+    },
+    "Iso24.9938": {
+        "error": 4.282650420210102e-05,
+        "error_type": null,
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 0.0008772515368789921
+    },
+    "Ne21": {
+        "error": 7.283755586069907e-06,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 2.2857316965359146e-05
+    }
+}
